@@ -31,8 +31,11 @@ alert(ville.population)
 ```
 
 ### Scratchpad
-
 Petit carnet dans les icones en haut à droite.
+
+### Math.random
+```javascript
+const chiffre_secret = Math.floor(Math.random() * 100) + 1
 
 
 
